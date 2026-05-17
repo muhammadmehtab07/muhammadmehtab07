@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Muhammad Mehtab 👋
 
-<!--
-**muhammadmehtab07/muhammadmehtab07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Student at UET Abbottabad  
+💻 Learning Programming, AI Tools & Android App Development  
+🚀 Interested in Building Creative Tech Projects  
+📱 Future AI App & Game Developer  
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- OOP
+- GitHub
+- AI Tools
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Android App Development
+- AI App Building
+- Git & GitHub
+
+## Goals
+- Build AI-powered apps
+- Create a professional portfolio
+- Launch projects online
+
+## Connect With Me
+- GitHub Profile
+- Future Portfolio Website
