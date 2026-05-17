@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Mehtab 👋
 
-🎓 BSCS Student at UET Abbottabad  
+🎓 BSSE Student at UET Abbottabad  
 💻 Learning Programming, AI Tools & Android App Development  
 🚀 Interested in Building Creative Tech Projects  
 📱 Future AI App & Game Developer  
